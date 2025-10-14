@@ -10,11 +10,11 @@
 ## 🔍 About me
 
 ✨ Passionate about **ethical hacking, secure software development**, and **cloud automation**.<br>  
-🎓 Computer Science student at USFQ, recognized on the Dean’s List, with an emphasis in Data Science.<br>  
-🔐 I collaborate with **BethaLabs** en proyectos de ciberseguridad y desarrollo: auditorías, despliegues seguros, hosting profesional (ej. *hotelapp.bethalabs.com*).<br>  
-📦 Proyecto reciente: **App de Control de Gastos** — una SPA con React en frontend y API segura en backend para registrar ingresos/gastos y visualizar estadísticas.<br>  
-🎯 Mi meta: Convertirme en un **Purple Team Engineer**, fusionando ofensiva y defensa en seguridad informática.<br>  
-🎲 Fun fact: Me encanta “romper” cosas para entenderlas y luego reforzarlas 😉  
+🎓 Computer Science Engineer from USFQ, recognized on the Dean’s List, with a focus on Data Science.<br>  
+🔐 I collaborate with **BethaLabs** on cybersecurity and software development projects — including security audits, safe deployments, and professional hosting (e.g. *hotelapp.bethalabs.com*).<br>  
+📦 Recent project: **Expense Tracker App** — a SPA built with React on the frontend and a secure API backend to manage income/expenses and visualize statistics.<br>  
+🎯 Goal: Become a **Purple Team Engineer**, combining both offensive and defensive cybersecurity skills.<br>  
+🎲 Fun fact: I love breaking things just to understand and rebuild them stronger 
 
 ---
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 🛡️ Cybersecurity Tools & Logos
+## 🛡️ Cybersecurity Tools
 
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="45" alt="Kali Linux" />
@@ -61,19 +61,19 @@
 - Microsoft Certified: Azure Fundamentals (AZ-900)  
 - Microsoft Certified: Security, Compliance & Identity (SC-900)  
 - Palo Alto Networks – Security Operations Fundamentals  
-- Metasploit Penetration Testing (curso Udemy)  
+- Metasploit Penetration Testing (Udemy)  
 - Cisco – Cyber Threat Management  
 
 ---
 
 ## 📂 Projects
 
-- **BethaLabs / HotelApp** — plataforma de gestión hotelera con backend contenedorizado (AWS) y frontend hospedado bajo subdominios en bethalabs.com.  
-- **App de Control de Gastos** — SPA para gestión de finanzas personales (ingresos/gastos, gráficos, estadísticas).  
-- **Insurance Management API** — API REST segura con autenticación JWT y control de acceso (roles).  
-- **Portfolio Website** — sitio personal responsivo desarrollado con Next.js + Tailwind CSS.  
+- **BethaLabs / HotelApp** — hotel management platform with a containerized backend (AWS) and a hosted frontend under bethalabs.com subdomains.  
+- **Expense Tracker App** — single-page app for personal finance management (income/expenses, charts, and analytics).  
+- **Insurance Management API** — secure REST API with JWT authentication and role-based access control.  
+- **Portfolio Website** — fully responsive personal site built with Next.js + Tailwind CSS.  
 
-👉 Repositorio principal: [github.com/elrichi31](https://github.com/elrichi31)  
+👉 Main repository: [github.com/elrichi31](https://github.com/elrichi31)  
 
 ---
 
@@ -81,14 +81,4 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nicolasmoina/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" height="30" alt="LinkedIn" />
-  </a>
-  <img width="12" />
-  <a href="mailto:nicolas.moina@yahoo.com">
-    <img src="https://i.pinimg.com/originals/fc/43/1a/fc431a3fbdfbb51fbc967269a2294815.png" height="30" alt="Yahoo" />
-  </a>
-</p>
-
----
-
-⭐️ *“Security isn’t a feature — it’s a foundation.”*
+    <img src="https://upload.wikimedia.org/wikipe
