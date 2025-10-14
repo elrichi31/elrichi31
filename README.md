@@ -1,84 +1,122 @@
-# Nicolas Moina
+<h1 align="center">Hey 👋 I'm Nicolás Moina</h1>
 
-¡Hola! Soy Nicolas Moina, un apasionado desarrollador de software y científico de datos con una sólida formación en Ciencias de la Computación y experiencia en diversas áreas del desarrollo tecnológico. Aquí encontrarás proyectos en los que he trabajado, colaboraciones y mucho más.
+###
 
-## 🚀 Sobre mí
+<p align="center">
+  💻 <b>Computer Science Engineer</b> | 🛡️ <b>Cybersecurity Specialist</b> | ⚙️ <b>Full-Stack Developer</b><br>
+  from 🇪🇨 Quito, Ecuador
+</p>
 
-- 💻 Ingeniero en Ciencias de la Computación por la Universidad San Francisco de Quito, con una especialización en Desarrollo de Aplicaciones.
-- 🎓 Becario en Ciencias de la Computación y miembro del club de programación competitiva.
-- 🌐 Hablo español (nativo) e inglés (fluido).
+###
 
-## 🛠️ Habilidades
+<h2 align="left">About me</h2>
 
-### Lenguajes de Programación
-- Python
-- JavaScript
-- TypeScript
-- C++
-- Java
+###
 
-### Frameworks y Librerías
-- React
-- NextJS
-- Node.js
-- Flutter
-- GatsbyJS
+<p align="left">
+✨ Passionate about <b>ethical hacking, secure software development</b> and <b>cloud automation</b>.<br><br>
+🎓 I'm a <b>Computer Science Engineer</b> from Universidad San Francisco de Quito, recognized on the <b>Dean’s List</b> for academic excellence.<br><br>
+🔐 Currently working at <b>Tata Consultancy Services</b>, enhancing the security of banking applications (SAST/DAST, OWASP, secure code review).<br><br>
+🚀 Experienced in <b>building scalable APIs, full-stack apps</b>, and integrating <b>DevSecOps practices</b> with technologies like <b>AWS, Docker, and Azure DevOps</b>.<br><br>
+🎯 Goals: Become a <b>Purple Team Engineer</b> — bridging defense and offense in cybersecurity.<br><br>
+🎲 Fun fact: I break things just to fix them better. 😉
+</p>
 
-### Bases de Datos
-- SQL
-- MySQL
-- MongoDB
+###
 
-### Otros
-- Git & GitHub
-- Jira
-- Scrum
-- Desarrollo de Aplicaciones SPA
-- Autenticación de Usuarios (JSON Web Tokens, Passport.js)
-- Ubuntu y Kali Linux
+<h2 align="left">I code with</h2>
 
-## 🔭 Proyectos Destacados
+###
 
-### Proyecto Final de Redes de Computadoras
-- **Descripción:** Creación de una red de nodos que se comunican a través de mensajes encriptados. Presentación sobre Tor.
-- **Tecnologías:** Python, Flask, Criptografía.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+</div>
 
-### Aplicación de Hotel
-- **Descripción:** Desarrollo del backend utilizando AdonisJS, incluyendo manejo de errores y endpoints específicos para consultar habitaciones.
-- **Tecnologías:** AdonisJS.
+###
 
-### Playground de Código
-- **Descripción:** Plataforma web similar a Codewars para retos de programación.
-- **Tecnologías:** En desarrollo.
+<h2 align="left">Cybersecurity Toolkit</h2>
 
-## 📚 Cursos y Educación Continua
+###
 
-### Cursos en Línea
-- Coursera: Fundamentos de Ubuntu y Kali Linux.
-- Platzi: [Perfil de Platzi](https://www.platzi.com/p/nmoina/)
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Kali_Linux_2.0_wordmark.svg" height="35" alt="kali linux logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Metasploit_logo.png" height="35" alt="metasploit logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Nmap_logo.svg" height="35" alt="nmap logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Burp_Suite_Logo.png" height="35" alt="burpsuite logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Wireshark_Logo.svg" height="35" alt="wireshark logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Darktrace_Logo.svg" height="35" alt="darktrace logo" />
+</div>
 
-### Certificaciones
-- Autenticación con Passport.js.
-- Escuela de JavaScript.
+###
 
-## 📫 Contacto
+<h2 align="left">Certifications</h2>
 
-- **Correo Electrónico:** [nicolas.moina@yahoo.com](mailto:nicolas.moina@yahoo.com)
-- **LinkedIn:** [Nicolas Moina](https://www.linkedin.com/in/nicolas-moina-21a85b20a/)
-- **GitHub:** [elrichi31](https://www.github.com/elrichi31)
+###
 
-## 🌱 Intereses
+- 🎓 **Microsoft Certified: Azure Fundamentals (AZ-900)**  
+- 🛡️ **Microsoft Certified: Security, Compliance & Identity (SC-900)**  
+- 🔍 **Palo Alto Networks – Security Operations Fundamentals**  
+- 💣 **Metasploit Penetration Testing (Udemy)**  
+- ⚙️ **Cisco – Cyber Threat Management**
 
-- Desarrollo Web
-- Ciencia de Datos
-- Inteligencia Artificial
-- Desarrollo Backend
+###
 
-## 🤝 Habilidades Interpersonales
+<h2 align="left">Projects</h2>
 
-- Comunicación
-- Trabajo en equipo
-- Resolución de problemas
-- Automotivación
+###
 
-¡Gracias por visitar mi perfil de GitHub! Si tienes algún proyecto interesante o colaboración en mente, no dudes en contactarme.
+- 🏨 **HotelApp** – Hotel management system with Next.js, AdonisJS, and MySQL.  
+- 🧩 **Insurance Management API** – Secure REST API with JWT and RBAC, built on NestJS.  
+- 🛍️ **Product Catalog** – Real-time Amazon offers tracker with Next.js.  
+- 🌐 **Portfolio Website** – Responsive personal site built with Next.js and Tailwind CSS.  
+
+👉 Check them all on my GitHub: [github.com/elrichi31](https://github.com/elrichi31)
+
+###
+
+<h2 align="left">Let's connect</h2>
+
+###
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nicolasmoina/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo" />
+  </a>
+  <img width="12" />
+  <a href="mailto:nicolas.moina@yahoo.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" height="30" alt="gmail logo" />
+  </a>
+</p>
+
+---
+
+⭐️ *“Security isn’t a feature — it’s a foundation.”*
