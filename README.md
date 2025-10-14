@@ -1,119 +1,91 @@
-<h1 align="center">Hey 👋 I'm Nicolás Moina</h1>
-
-###
+<h1 align="center">Hey 👋 I’m Nicolás Moina</h1>
 
 <p align="center">
-  💻 <b>Computer Science Engineer</b> | 🛡️ <b>Cybersecurity Specialist</b> | ⚙️ <b>Full-Stack Developer</b><br>
+  💻 <strong>Computer Science Engineer</strong> | 🛡️ <strong>Cybersecurity & Full-Stack Developer</strong><br>
   from 🇪🇨 Quito, Ecuador
 </p>
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🔍 About me
 
-###
+✨ Passionate about **ethical hacking, secure software development**, and **cloud automation**.<br>  
+🎓 Computer Science student at USFQ, recognized on the Dean’s List, with an emphasis in Data Science.<br>  
+🔐 I collaborate with **BethaLabs** en proyectos de ciberseguridad y desarrollo: auditorías, despliegues seguros, hosting profesional (ej. *hotelapp.bethalabs.com*).<br>  
+📦 Proyecto reciente: **App de Control de Gastos** — una SPA con React en frontend y API segura en backend para registrar ingresos/gastos y visualizar estadísticas.<br>  
+🎯 Mi meta: Convertirme en un **Purple Team Engineer**, fusionando ofensiva y defensa en seguridad informática.<br>  
+🎲 Fun fact: Me encanta “romper” cosas para entenderlas y luego reforzarlas 😉  
 
-<p align="left">
-✨ Passionate about <b>ethical hacking, secure software development</b> and <b>cloud automation</b>.<br><br>
-🎓 I'm a <b>Computer Science Engineer</b> from Universidad San Francisco de Quito, recognized on the <b>Dean’s List</b> for academic excellence.<br><br>
-🔐 Currently working at <b>Tata Consultancy Services</b>, enhancing the security of banking applications (SAST/DAST, OWASP, secure code review).<br><br>
-🚀 Experienced in <b>building scalable APIs, full-stack apps</b>, and integrating <b>DevSecOps practices</b> with technologies like <b>AWS, Docker, and Azure DevOps</b>.<br><br>
-🎯 Goals: Become a <b>Purple Team Engineer</b> — bridging defense and offense in cybersecurity.<br><br>
-🎲 Fun fact: I break things just to fix them better. 😉
-</p>
+---
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
+## 🛠️ I code with
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" height="40" alt="Docker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/768px-Microsoft_Azure.svg.png" height="40" alt="Azure" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" height="40" alt="AWS" />
 </div>
 
-###
+---
 
-<h2 align="left">Cybersecurity Toolkit</h2>
-
-###
+## 🛡️ Cybersecurity Tools & Logos
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Kali_Linux_2.0_wordmark.svg" height="35" alt="kali linux logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="45" alt="Kali Linux" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Metasploit_logo.png" height="35" alt="metasploit logo" />
+  <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574256490" height="45" alt="Metasploit" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Nmap_logo.svg" height="35" alt="nmap logo" />
+  <img src="https://www.nosolohacking.info/wp-content/uploads/2020/09/nmap-logo-256x256-1.png" height="45" alt="Nmap" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Burp_Suite_Logo.png" height="35" alt="burpsuite logo" />
+  <img src="https://avatars.githubusercontent.com/u/13749115?s=280&v=4" height="45" alt="Burp Suite" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Wireshark_Logo.svg" height="35" alt="wireshark logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Darktrace_Logo.svg" height="35" alt="darktrace logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/2048px-Wireshark_icon.svg.png" height="45" alt="Wireshark" />
 </div>
 
-###
+---
 
-<h2 align="left">Certifications</h2>
+## 🏆 Certifications & Recognitions
 
-###
+- Microsoft Certified: Azure Fundamentals (AZ-900)  
+- Microsoft Certified: Security, Compliance & Identity (SC-900)  
+- Palo Alto Networks – Security Operations Fundamentals  
+- Metasploit Penetration Testing (curso Udemy)  
+- Cisco – Cyber Threat Management  
 
-- 🎓 **Microsoft Certified: Azure Fundamentals (AZ-900)**  
-- 🛡️ **Microsoft Certified: Security, Compliance & Identity (SC-900)**  
-- 🔍 **Palo Alto Networks – Security Operations Fundamentals**  
-- 💣 **Metasploit Penetration Testing (Udemy)**  
-- ⚙️ **Cisco – Cyber Threat Management**
+---
 
-###
+## 📂 Projects
 
-<h2 align="left">Projects</h2>
+- **BethaLabs / HotelApp** — plataforma de gestión hotelera con backend contenedorizado (AWS) y frontend hospedado bajo subdominios en bethalabs.com.  
+- **App de Control de Gastos** — SPA para gestión de finanzas personales (ingresos/gastos, gráficos, estadísticas).  
+- **Insurance Management API** — API REST segura con autenticación JWT y control de acceso (roles).  
+- **Portfolio Website** — sitio personal responsivo desarrollado con Next.js + Tailwind CSS.  
 
-###
+👉 Repositorio principal: [github.com/elrichi31](https://github.com/elrichi31)  
 
-- 🏨 **HotelApp** – Hotel management system with Next.js, AdonisJS, and MySQL.  
-- 🧩 **Insurance Management API** – Secure REST API with JWT and RBAC, built on NestJS.  
-- 🛍️ **Product Catalog** – Real-time Amazon offers tracker with Next.js.  
-- 🌐 **Portfolio Website** – Responsive personal site built with Next.js and Tailwind CSS.  
+---
 
-👉 Check them all on my GitHub: [github.com/elrichi31](https://github.com/elrichi31)
-
-###
-
-<h2 align="left">Let's connect</h2>
-
-###
+## 📩 Let’s connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nicolasmoina/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" height="30" alt="LinkedIn" />
   </a>
   <img width="12" />
   <a href="mailto:nicolas.moina@yahoo.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" height="30" alt="gmail logo" />
+    <img src="https://i.pinimg.com/originals/fc/43/1a/fc431a3fbdfbb51fbc967269a2294815.png" height="30" alt="Yahoo" />
   </a>
 </p>
 
